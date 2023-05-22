@@ -1,1 +1,3 @@
-# Pattern-By-Model
+# Pattern By Model
+
+This repository contains a Java program that generates a recursive pattern based on a given number. The program uses a recursive method to control and display the pattern. It prompts the user to enter a number and then recursively generates the pattern by subtracting 5 from the number until it reaches zero, and then adds 5 until it returns to the original number. The program demonstrates the concept of recursion and provides a visual representation of the pattern. The code is well-commented and organized, making it easy to understand and modify. This program serves as a useful reference for anyone looking to create recursive patterns in Java.
